@@ -2,8 +2,8 @@
  "name" : "echobot",
  "version" : "1.2.3",
  "description" : "Echobot",
- "main" : "index.js"
- "scripts": {
+ "main" : "index.js",
+ "scripts" : {
 
 "start": "node index.js"
 
