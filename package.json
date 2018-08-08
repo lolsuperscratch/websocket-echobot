@@ -1,0 +1,7 @@
+{
+ "name" : "echobot",
+ "version" : "1.2.3",
+ "description" : "Echobot",
+ "main" : "index.js"
+ 
+}
